@@ -1,4 +1,5 @@
 {
+  "name": "CQRS-ES-EXAMPLE-JS devcontainer",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "customizations": {
     "vscode": {
