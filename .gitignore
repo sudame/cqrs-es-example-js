@@ -20,3 +20,4 @@ yarn-error.log
 .turbo/
 .turbo/*
 
+.pnpm-store
