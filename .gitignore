@@ -13,6 +13,7 @@ yarn-error.log
 *.iml
 .vscode/*
 !.vscode/settings.json
+!.vscode/extensions.json
 *.swp
 *.swo
 
